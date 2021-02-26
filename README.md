@@ -1,2 +1,2 @@
 # MITS
-Target acquisition and dispatch sim for class
+Target acquisition and dispatch sim for class.
